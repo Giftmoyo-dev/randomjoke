@@ -1,4 +1,4 @@
- document.getElementById('btn').addEventListener('click', joke)
+ document.getElementById('btn').addEventListener('click', joke);
 
  async function joke() {
     let config = {
